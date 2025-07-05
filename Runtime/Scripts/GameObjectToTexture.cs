@@ -9,7 +9,7 @@ public class GameObjectToTexture : MonoBehaviour
 {
     public Camera TargetCamera;
     public SaveTextureToFileUtility.SaveTextureFileFormat textureFileFormat = SaveTextureToFileUtility.SaveTextureFileFormat.PNG;
-    public string textureOutputPath = "Assets/Samples/CaptureStudio/Output";
+    public string textureOutputPath = "Assets/Samples/Capture Studio/Output";
 
     public List<GameObject> GameObjectToTextureQueue = new();
     private Queue<GameObject> textureQueue = new();
