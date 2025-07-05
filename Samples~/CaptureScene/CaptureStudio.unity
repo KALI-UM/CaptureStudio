@@ -184,7 +184,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   TargetCamera: {fileID: 630012400}
   textureFileFormat: 2
-  textureOutputPath: Assets/CaptureStudio/Output/{0}
+  textureOutputPath: Assets/Samples/CaptureStudio/Output
   GameObjectToTextureQueue:
   - {fileID: 375407414728437258, guid: d063511e4f9608f4a9230108432b2e79, type: 3}
 --- !u!4 &463292826
