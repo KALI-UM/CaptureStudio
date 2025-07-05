@@ -1,0 +1,11 @@
+{
+  "name": "com.kali-um.capturestudio",
+  "version": "1.0.0",
+  "displayName": "Capture Studio",
+  "description": "게임 오브젝트를 간단하게 이미지 파일로 만드는 툴입니다.",
+  "unity": "2020.3",
+  "author": {
+    "name": "KALI-UM",
+    "url": "https://github.com/KALI-UM/CaptureStudio"
+  }
+}
