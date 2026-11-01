@@ -187,6 +187,9 @@ MonoBehaviour:
   textureOutputPath: Assets/Samples/Capture Studio/Output
   GameObjectToTextureQueue:
   - {fileID: 375407414728437258, guid: d063511e4f9608f4a9230108432b2e79, type: 3}
+  - {fileID: 375407414728437258, guid: 32233b2be56d4364a92d0da566942dce, type: 3}
+  - {fileID: 375407414728437258, guid: e152c9953ecca18498cdf9b87d59a6fe, type: 3}
+  - {fileID: 375407414728437258, guid: b3cd5198bf1bcdb448ee69ba72f099f4, type: 3}
 --- !u!4 &463292826
 Transform:
   m_ObjectHideFlags: 0
